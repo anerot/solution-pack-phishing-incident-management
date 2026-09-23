@@ -1,9 +1,9 @@
 # Release Information
 
-- **Version**:  1.1.0
+- **Version**:  1.1.1
 - **Certified**: No
 - **Publisher**: Fortinet CSE
-- **Compatible Version**: FortiSOAR v7.2.2 and above
+- **Compatible Version**: FortiSOAR v8.0.x
 - [Release Notes](./release_notes.md)
 
 # Overview
